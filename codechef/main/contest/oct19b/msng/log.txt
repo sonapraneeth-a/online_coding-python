@@ -1,0 +1,139 @@
+2019-10-13 17:05:04,802 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 1
+2019-10-13 17:05:04,803 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,803 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for ZZZZZZZ is 36
+2019-10-13 17:05:04,803 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 36, Y: ZZZZZZZ, X: 78364164095
+2019-10-13 17:05:04,803 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 78364164095
+2019-10-13 17:05:04,803 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 78364164095
+2019-10-13 17:05:04,803 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 2
+2019-10-13 17:05:04,803 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,804 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for ZZZZZZZZZZ is 36
+2019-10-13 17:05:04,804 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 36, Y: ZZZZZZZZZZ, X: 3656158440062975
+2019-10-13 17:05:04,804 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: -1
+2019-10-13 17:05:04,804 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 3
+2019-10-13 17:05:04,804 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,804 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for Z1 is 36
+2019-10-13 17:05:04,804 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 10011101101 is 2
+2019-10-13 17:05:04,804 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 2, Y: 10011101101, X: 1261
+2019-10-13 17:05:04,804 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 1261
+2019-10-13 17:05:04,804 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 1261
+2019-10-13 17:05:04,804 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 4
+2019-10-13 17:05:04,805 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,805 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 10011101101 is 2
+2019-10-13 17:05:04,805 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for Z1 is 36
+2019-10-13 17:05:04,805 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 36, Y: Z1, X: 1261
+2019-10-13 17:05:04,805 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 1261
+2019-10-13 17:05:04,805 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 1261
+2019-10-13 17:05:04,806 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 5
+2019-10-13 17:05:04,806 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,806 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 101 is 2
+2019-10-13 17:05:04,806 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for ABCD is 14
+2019-10-13 17:05:04,806 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 17, Y: ABCD, X: 52526
+2019-10-13 17:05:04,806 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 52526
+2019-10-13 17:05:04,807 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 52526
+2019-10-13 17:05:04,807 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 6
+2019-10-13 17:05:04,808 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,808 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for ABCD is 14
+2019-10-13 17:05:04,808 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 101 is 2
+2019-10-13 17:05:04,808 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 17, Y: ABCD, X: 52526
+2019-10-13 17:05:04,808 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 2, Y: 101, X: 5
+2019-10-13 17:05:04,808 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: -1
+2019-10-13 17:05:04,809 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 7
+2019-10-13 17:05:04,809 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,809 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 10101 is 2
+2019-10-13 17:05:04,809 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 1011010 is 2
+2019-10-13 17:05:04,809 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 5A is 11
+2019-10-13 17:05:04,809 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 16, Y: 5A, X: 90
+2019-10-13 17:05:04,810 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 90
+2019-10-13 17:05:04,810 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 90
+2019-10-13 17:05:04,810 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 8
+2019-10-13 17:05:04,810 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,810 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 10100 is 2
+2019-10-13 17:05:04,811 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 1011010 is 2
+2019-10-13 17:05:04,811 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 5A is 11
+2019-10-13 17:05:04,811 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 16, Y: 5A, X: 90
+2019-10-13 17:05:04,811 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 90
+2019-10-13 17:05:04,812 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 90
+2019-10-13 17:05:04,812 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 9
+2019-10-13 17:05:04,812 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,813 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for CDE is 15
+2019-10-13 17:05:04,814 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 10, Y: CDE, X: 1344
+2019-10-13 17:05:04,814 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 1344
+2019-10-13 17:05:04,814 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 1344
+2019-10-13 17:05:04,814 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 10
+2019-10-13 17:05:04,814 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,815 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 80 is 9
+2019-10-13 17:05:04,815 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 5A is 11
+2019-10-13 17:05:04,815 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 1011 is 2
+2019-10-13 17:05:04,815 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 10, Y: 80, X: 80
+2019-10-13 17:05:04,815 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 16, Y: 5A, X: 90
+2019-10-13 17:05:04,815 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: -1
+2019-10-13 17:05:04,815 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 11
+2019-10-13 17:05:04,815 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,815 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 10101 is 2
+2019-10-13 17:05:04,816 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 1011010 is 2
+2019-10-13 17:05:04,816 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 5A is 11
+2019-10-13 17:05:04,816 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 16, Y: 5A, X: 90
+2019-10-13 17:05:04,816 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 90
+2019-10-13 17:05:04,816 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 90
+2019-10-13 17:05:04,816 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 12
+2019-10-13 17:05:04,816 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,816 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 10001 is 2
+2019-10-13 17:05:04,817 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 18565 is 9
+2019-10-13 17:05:04,817 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 2110 is 3
+2019-10-13 17:05:04,817 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 3, Y: 2110, X: 66
+2019-10-13 17:05:04,817 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 66
+2019-10-13 17:05:04,817 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 66
+2019-10-13 17:05:04,817 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 13
+2019-10-13 17:05:04,818 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,818 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for Z1 is 36
+2019-10-13 17:05:04,818 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 36, Y: Z1, X: 1261
+2019-10-13 17:05:04,818 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 1261
+2019-10-13 17:05:04,818 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 1261
+2019-10-13 17:05:04,818 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 14
+2019-10-13 17:05:04,818 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,819 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for ABCD is 14
+2019-10-13 17:05:04,819 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 17, Y: ABCD, X: 52526
+2019-10-13 17:05:04,819 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 52526
+2019-10-13 17:05:04,819 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 52526
+2019-10-13 17:05:04,819 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 15
+2019-10-13 17:05:04,819 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,819 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 1001010 is 2
+2019-10-13 17:05:04,820 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 22 is 3
+2019-10-13 17:05:04,820 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 36, Y: 22, X: 74
+2019-10-13 17:05:04,820 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 74
+2019-10-13 17:05:04,820 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 74
+2019-10-13 17:05:04,820 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 16
+2019-10-13 17:05:04,820 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,820 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 22 is 3
+2019-10-13 17:05:04,820 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 1001010 is 2
+2019-10-13 17:05:04,821 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 2, Y: 1001010, X: 74
+2019-10-13 17:05:04,821 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 74
+2019-10-13 17:05:04,821 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 74
+2019-10-13 17:05:04,821 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 17
+2019-10-13 17:05:04,821 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,822 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 20 is 3
+2019-10-13 17:05:04,822 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 1010 is 2
+2019-10-13 17:05:04,822 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 8, Y: 20, X: 16
+2019-10-13 17:05:04,822 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 2, Y: 1010, X: 10
+2019-10-13 17:05:04,822 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: -1
+2019-10-13 17:05:04,822 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 18
+2019-10-13 17:05:04,823 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,823 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 10000 is 2
+2019-10-13 17:05:04,823 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 16 is 7
+2019-10-13 17:05:04,823 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 20 is 3
+2019-10-13 17:05:04,823 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - B: 8, Y: 20, X: 16
+2019-10-13 17:05:04,823 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: 16
+2019-10-13 17:05:04,823 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: 16
+2019-10-13 17:05:04,824 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Test: 19
+2019-10-13 17:05:04,824 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Method 02
+2019-10-13 17:05:04,824 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 10100 is 2
+2019-10-13 17:05:04,824 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 5A is 11
+2019-10-13 17:05:04,824 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - Min base for 1011010 is 2
+2019-10-13 17:05:04,825 - CodeChef.Main.Contest.OCT19B.MSNG.main - DEBUG - X: None
+2019-10-13 17:05:04,825 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - X: None
+2019-10-13 17:05:04,825 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - ['10100', '5A', '1011010']
+2019-10-13 17:05:04,825 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Finding possible X for given y: 10100
+2019-10-13 17:05:04,825 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - [20, 90, 272, 650, 1332, 2450, 4160, 6642, 10100, 14762, 20880, 28730, 38612, 50850, 65792, 83810, 105300, 130682, 160400, 194922, 234740, 280370, 332352, 391250, 457652, 532170, 615440, 708122, 810900, 924482, 1049600, 1187010, 1337492, 1501850, 1680912]
+2019-10-13 17:05:04,825 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - ['10100', '5A']
+2019-10-13 17:05:04,826 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - Remaining all valid x
+2019-10-13 17:05:04,827 - CodeChef.Main.Contest.OCT19B.MSNG.main - INFO - [90]
